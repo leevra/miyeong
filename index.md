@@ -1,1 +1,1 @@
-<META HTTP-EQUIV="Refresh" CONTENT="0;URL=https://search.leevra.com/">
+<META HTTP-EQUIV="Refresh" CONTENT="0;URL=https://">
